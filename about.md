@@ -18,11 +18,15 @@ title: About
 ***
 
 ## References
-* <arthur.douillard@epita.fr>
-* [Curriculum Vitae](/public/cv/cv.pdf)
-* [Linkedin](https://linkedin.com/in/arthurdouillard)
-* [Github](https://github.com/BoBibelo)
-* [Twitter](https://twitter.com/bobibelo)
+
+<div class="sidebar-social">
+<a href="https://github.com/BoBibelo"><i class="fa fa-github fa-2x"></i></a>
+<a href="https://linkedin.com/in/arthurdouillard"><i class="fa fa-linkedin-square fa-2x"></i></a>
+<a href="https://twitter.com/bobibelo"><i class="fa fa-twitter-square fa-2x"></i></a>
+<a href="mailto:arthur.douillard@epita.fr"><i class="fa fa-envelope-o fa-2x"></i></a>
+</div>
+
+And my CV: <a href="/public/cv/cv.pdf"><i class="fa fa-file-text fa-2x"></i></a>
 
 ## Blog Design
 
